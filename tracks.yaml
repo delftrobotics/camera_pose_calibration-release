@@ -14,12 +14,12 @@ tracks:
       :{release_inc}
     devel_branch: null
     last_version: 1.0.0
-    name: dr_base
+    name: camera_pose_calibration
     patches: null
     release_inc: '0'
     release_repo_url: null
     release_tag: :{version}
     ros_distro: indigo
     vcs_type: git
-    vcs_uri: https://github.com/delftrobotics/dr_base.git
+    vcs_uri: https://github.com/delftrobotics/camera_pose_calibration.git
     version: :{auto}
