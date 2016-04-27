@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+	<name>dr_base</name>
+	<version>1.0.0</version>
+	<description>Delft Robotics base dependencies.</description>
+
+	<maintainer email="maarten@de-vri.es">Maarten de Vries</maintainer>
+
+	<license>Apache v2.0</license>
+
+	<author email="maarten@de-vri.es">Maarten de Vries</author>
+
+	<buildtool_depend>catkin</buildtool_depend>
+	<depend>dr_cmake</depend>
+
+	<export>
+	</export>
+</package>
