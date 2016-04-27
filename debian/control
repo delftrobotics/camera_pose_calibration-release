@@ -1,0 +1,12 @@
+Source: ros-indigo-dr-cmake
+Section: misc
+Priority: extra
+Maintainer: Maarten de Vries <maarten@de-vri.es>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-dr-cmake
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: Some CMake utilities for DR.
