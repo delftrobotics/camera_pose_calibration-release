@@ -1,0 +1,14 @@
+ros-indigo-camera-pose-calibration (0.1.2-0trusty) trusty; urgency=high
+
+  * Update dependencies
+  * Contributors: Ronald Ensing
+
+ -- Ronald Ensing <r.m.ensing@delftrobotics.com>  Wed, 27 Apr 2016 22:00:00 -0000
+
+ros-indigo-camera-pose-calibration (0.1.1-0trusty) trusty; urgency=high
+
+  First public release
+
+ -- Ronald Ensing <r.m.ensing@delftrobotics.com>  Thu, 21 Apr 2016 22:00:00 -0000
+
+
