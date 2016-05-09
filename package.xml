@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>camera_pose_calibration</name>
-  <version>0.1.2</version>
+  <version>0.1.3</version>
   <description>Camera pose calibration using the OpenCV asymmetric circles pattern.</description>
 
 	<maintainer email="r.m.ensing@delftrobotics.com">Ronald Ensing</maintainer>
@@ -9,6 +9,7 @@
 	<author email="j.c.gaiser@delftrobotics.com">Hans Gaiser</author>
 	<author email="j.a.vanegmond@tudelft.nl">Jeff van Egmond</author>
 	<author email="maarten@de-vri.es">Maarten de Vries</author>
+	<author email="m.a.morariu@delftrobotics.com">Mihai Morariu</author>
 	<author email="r.m.ensing@delftrobotics.com">Ronald Ensing</author>
 
 	<license>Apache 2.0</license>
