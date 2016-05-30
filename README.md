@@ -1,3 +1,26 @@
+## camera_pose_calibration (indigo) - 0.1.3-1
+
+The packages in the `camera_pose_calibration` repository were released into the `indigo` distro by running `/usr/bin/bloom-release camera_pose_calibration --track indigo --rosdistro indigo` on `Mon, 30 May 2016 11:10:13 -0000`
+
+The `camera_pose_calibration` package was released.
+
+Version of package(s) in repository `camera_pose_calibration`:
+
+- upstream repository: https://github.com/delftrobotics/camera_pose_calibration.git
+- release repository: https://github.com/delftrobotics/camera_pose_calibration-release.git
+- rosdistro version: `0.1.3-0`
+- old version: `0.1.3-0`
+- new version: `0.1.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## camera_pose_calibration (indigo) - 0.1.3-0
 
 The packages in the `camera_pose_calibration` repository were released into the `indigo` distro by running `/usr/bin/bloom-release camera_pose_calibration --track indigo --rosdistro indigo` on `Mon, 09 May 2016 18:32:49 -0000`
